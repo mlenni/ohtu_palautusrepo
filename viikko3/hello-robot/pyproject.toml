@@ -7,6 +7,7 @@ authors = ["Your Name <you@example.com>"]
 [tool.poetry.dependencies]
 python = "^3.10"
 robotframework = "^6.1.1"
+robot = "^20071211"
 
 
 [build-system]
